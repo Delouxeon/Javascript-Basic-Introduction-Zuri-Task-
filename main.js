@@ -4,6 +4,6 @@ let myCountry = "Nigeria";
 
 document.write("My name is ",myName);
 document.write("<br>")
-document.write("I am from ", myCountry);
-document.write("<br>")
 document.write("I am ", myHeight," tall");
+document.write("<br>")
+document.write("I am from ", myCountry);
