@@ -1,5 +1,5 @@
 let myName = "Nwabuife Divine";
-let myHeight = "72meters";
+let myHeight = "5'8 feet";
 let myCountry = "Nigeria";
 
 document.write("My name is ",myName);
